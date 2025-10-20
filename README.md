@@ -1,3 +1,3 @@
 # djpradepz
-<div>Coming Soon</div>
-<img width="647" height="652" alt="image" src="https://github.com/user-attachments/assets/a8058dca-e832-4c7b-a9a7-e7f66e4f931b" />
+<img width="642" height="639" alt="image" src="https://github.com/user-attachments/assets/8e684d3f-5a3a-4eb2-897f-7c5b0cd94911" />
+
